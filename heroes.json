@@ -1,0 +1,42 @@
+{
+  "heroes": [
+    {
+      "id": "6ded13fe-bc24-4e5a-a9a9-335786a3ca42",
+      "name": "Vlad",
+      "description": "Test test test",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "value": "all",
+      "text": "Всі",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "value": "fire",
+      "text": "Вогонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "value": "water",
+      "text": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "value": "wind",
+      "text": "Вітер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "value": "earth",
+      "text": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
